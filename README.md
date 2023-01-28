@@ -24,7 +24,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 **Jesse Salomon Carranza Torres**
 
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
+* [LinkedIn](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 
 ## Instalación 
 Este proyecto necesita una base de datos con dos tablas (employees y histori) con los campos que proporsiona el ejecutable en la seccion de "Agregar", despues solo abrir el ejecutable.
