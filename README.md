@@ -11,7 +11,7 @@ Este es un ejecutable para el registro, edición y observación de empleados y s
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 
 ## IDE 💻
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://en.wikipedia.org/wiki/Eclipse_(software))
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
