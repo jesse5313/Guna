@@ -11,7 +11,7 @@ JRE 1.8.
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![J](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
-##Base de datos ⚡
+## Base de datos ⚡
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 
 ## IDE 🖍
