@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
 ## Descripción 📑
-Este es un ejecutable para el registro, edición y observación de empleados y su información, conectada a una DB, creado con Java y MySQL.
+Este es un ejecutable para el registro, busqueda, eliminar, editar, hacer cambios y observación de empleados con toda su información,tambien cuenta con un apartado llamado "historial" donde se observara los cambios echos al empleado, conectada a una DB, creado con Java y MySQL.
 
 ## JRE 💻
 JRE 1.8.
