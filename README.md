@@ -34,4 +34,4 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * [GitHub](https://github.com/jesse5313)
 
 ## Instalación 
-Este proyecto necesita una base de datos con dos tablas (employees y histori) con los campos que proporsiona el ejecutable en la seccion de "Agregar", despues solo abrir el ejecutable.
+Este proyecto necesita una base de datos con dos tablas (employees y history) con los campos que proporsiona el ejecutable en la seccion de "Agregar", despues solo abrir el ejecutable.
