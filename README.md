@@ -20,9 +20,11 @@ JRE 1.8.
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/2.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/3.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/4.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/5.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/6.png)
 
 ## Autor ✒️
 **Jesse Salomon Carranza Torres**
