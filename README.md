@@ -1,5 +1,5 @@
 # Guna
-![Imagen del proyecto](https://github.com/jesse5313/Guna/blob/main/capturas%20proyecto/1.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/1.png)
 
 ## Descripción 📑
 Este es un ejecutable para el registro, busqueda, eliminar, editar, hacer cambios y observación de empleados con toda su información,tambien cuenta con un apartado llamado "historial" donde se observara los cambios echos al empleado, conectada a una DB, creado con Java y MySQL.
