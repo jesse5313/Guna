@@ -32,6 +32,3 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
 * [LinkedIn](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 * [GitHub](https://github.com/jesse5313)
-
-## Instalación 
-Este proyecto necesita una base de datos con dos tablas (employees y history) con los campos que proporsiona el ejecutable en la seccion de "Agregar", despues solo abrir el ejecutable.
