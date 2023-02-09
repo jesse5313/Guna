@@ -31,4 +31,4 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 * jes_salomon5313@live.com
-* Pagina Web(https://gc13.netlify.app)
+* [Pagina Web](https://gc13.netlify.app)
