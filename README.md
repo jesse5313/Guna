@@ -32,5 +32,5 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * Pagina Web: (https://gc13.netlify.app)
 * Correo: (jes_salomon5313@live.com)
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 
