@@ -27,6 +27,8 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Guna/main/capturas%20proyecto/6.png)
 
 ## Autor ✒️
-**Jesse Salomon Carranza Torres** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
-* [Correo](jes_salomon5313@live.com)
-* [Pagina Web](https://gc13.netlify.app)
+**Jesse Salomon Carranza Torres**         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
+
+* Pagina Web: (https://gc13.netlify.app)
+* Correo: (jes_salomon5313@live.com)
+
