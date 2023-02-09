@@ -33,7 +33,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * jes_salomon5313@live.com
 * https://gc13.netlify.app
 
-
+* [![Correo](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 * ![correo]({https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white})
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
 * [GitHub](https://github.com/jesse5313)
