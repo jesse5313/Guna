@@ -32,6 +32,6 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 
 * 
-* [![Correo](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white.svg)](jes_salomon5313@live.com)
+* [![Correo](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]  jes_salomon5313@live.com
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
 * [GitHub](https://github.com/jesse5313)
