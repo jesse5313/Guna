@@ -30,7 +30,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 **Jesse Salomon Carranza Torres**
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
-
+*![image]({[BadgeURLHere](https://img.shields.io/badge/logo=microsoft-outlook&logoColor=white)})
 * [![Correo](https://img.shields.io/badge/logo=microsoft-outlook&logoColor=white)](jes_salomon5313@live.com)
 * [![]()]()
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
