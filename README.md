@@ -28,7 +28,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 ## Autor ✒️
 **Jesse Salomon Carranza Torres**
-* ![https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 * [jes_salomon5313@live.com](jes_salomon5313@live.com)
 * [LinkedIn](https://www.linkedin.com/in/jesse-salomon-carranza-torres-343117225/)
 * [GitHub](https://github.com/jesse5313)
